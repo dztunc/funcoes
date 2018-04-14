@@ -1,0 +1,2 @@
+Diretório para salvar funções avulsas.
+Funções feitas para incrementar diversos códigos.
